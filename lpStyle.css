@@ -1,0 +1,35 @@
+body{
+	background-image: url(bg.jpg);
+	background-image: cover;
+}
+
+h1{
+	background: rgba(48, 53, 55, 0.8);
+	border-radius: 45px;
+  	text-align: center; 	
+}
+
+.headContainer{
+
+	color: rgb(191, 225, 243);
+	font-family: "Times New Romen";
+	font-size: 105px;
+	padding: 20px; 
+  	margin: 70px;
+  	margin-top: 190px;
+  	margin-left: 280px;;
+  	width: 1100px;
+}
+
+.btn-primary{
+	color: white;
+	font-family: "Times New Romen";
+	font-size: 40px;
+	background-color: rgb(32, 130, 183);
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	width: 510px;
+	height: 110px;
+	margin: 15% 35%;
+}
